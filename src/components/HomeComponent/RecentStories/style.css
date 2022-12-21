@@ -1,0 +1,16 @@
+.RecentStories{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+
+    background-image: url(https://rog.asus.com/dist/img/rog_bg_pattern.jpg); 
+    width: auto;
+    height: 110vh;
+}
+
+.RecentStories h2{
+    color: #fff;
+    font-size: 54px;
+}

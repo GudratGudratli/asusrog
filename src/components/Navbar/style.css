@@ -1,0 +1,43 @@
+.Navbar .nav-black{
+    top: 0;
+    position: sticky;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: auto;
+    background-color: black;
+    padding: 10px 0px;
+}
+.Navbar .nav-black h1{
+    color: #ff0029;
+    font-size: 28px;
+}
+.Navbar .nav-black .nav{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.Navbar .nav-black .nav a{
+    color: #fff;
+    font-size: 18px;
+}
+
+.Navbar .nav-black .extra{
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+.Navbar .nav-black .extra p{
+    font-weight: 1000;
+    color: #6b6b6b;
+}
+
+
+.Navbar .nav-red{
+    background-color: #e30017;
+    color: #fff;
+    font-weight: 600;
+    text-align: center;
+    padding: 10px 0px;
+}
